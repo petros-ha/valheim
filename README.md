@@ -1,3 +1,3 @@
 # valheim
 
-%appdata%\..\LocalLow\IronGate\Valheim\worlds
+%appdata%/../LocalLow/IronGate/Valheim/worlds
